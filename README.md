@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h1 align="center">Hi 👋, I'm Enesylz</h1>
 <h3 align="center">Hi, I'm Enes, a passionate developer in software development and technology. I enjoy working on projects with C# and JavaScript. I am eager to learn new technologies and contribute to open-source projects.</h3>
 
